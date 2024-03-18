@@ -12,6 +12,7 @@ matplotlib = "^3.8.3"
 scikit-learn = "^1.4.1.post1"
 plotly = "^5.19.0"
 nbformat = "5.1.2"
+rx = "^3.2.0"
 
 
 [tool.poetry.group.dev.dependencies]
